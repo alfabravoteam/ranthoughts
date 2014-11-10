@@ -3,7 +3,7 @@ Created on Nov 6, 2014
 
 @author: zed
 @contact: https://gist.github.com/zed/1347055
-@summary: Modified by alfabravo. Added ssl_version parameter to handle different protocol versions according to https://docs.python.org/2/library/ssl.html#ssl.wrap_socket 
+@summary: Modified by alfabravoteam. Added ssl_version parameter to handle different protocol versions according to https://docs.python.org/2/library/ssl.html#ssl.wrap_socket 
 '''
 
 """SSL client/server certificates verification for `urllib2`.
